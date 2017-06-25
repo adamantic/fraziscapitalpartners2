@@ -2,10 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/404.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/500.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/about.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/contact.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/home.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/invest.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/code.js" afterPath="$PROJECT_DIR$/views/public/code.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/C&amp;IloansApr17.png" afterPath="$PROJECT_DIR$/views/public/img/C&amp;IloansApr17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/Contributors Apr17.PNG" afterPath="$PROJECT_DIR$/views/public/img/Contributors Apr17.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/FRAZIS_capital partners copy.png" afterPath="$PROJECT_DIR$/views/public/img/FRAZIS_capital partners copy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/Frazis name and logo.png" afterPath="$PROJECT_DIR$/views/public/img/Frazis name and logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/FrazisPerformanceFeb17.png" afterPath="$PROJECT_DIR$/views/public/img/FrazisPerformanceFeb17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/Name.png" afterPath="$PROJECT_DIR$/views/public/img/Name.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/Sears1.png" afterPath="$PROJECT_DIR$/views/public/img/Sears1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/Sears2.png" afterPath="$PROJECT_DIR$/views/public/img/Sears2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/Searsgraphic.png" afterPath="$PROJECT_DIR$/views/public/img/Searsgraphic.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/USOgraphic.png" afterPath="$PROJECT_DIR$/views/public/img/USOgraphic.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/autoloans.png" afterPath="$PROJECT_DIR$/views/public/img/autoloans.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/basecommoditiesApr17.jpg" afterPath="$PROJECT_DIR$/views/public/img/basecommoditiesApr17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/commercialloangrowth.png" afterPath="$PROJECT_DIR$/views/public/img/commercialloangrowth.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/fcp logo mini.png" afterPath="$PROJECT_DIR$/views/public/img/fcp logo mini.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/frazisperformance.PNG" afterPath="$PROJECT_DIR$/views/public/img/frazisperformance.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/frazisperformanceApr17.png" afterPath="$PROJECT_DIR$/views/public/img/frazisperformanceApr17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/inventories1.PNG" afterPath="$PROJECT_DIR$/views/public/img/inventories1.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/linkedin.png" afterPath="$PROJECT_DIR$/views/public/img/linkedin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/logo.png" afterPath="$PROJECT_DIR$/views/public/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/michaelfrazisprofile.png" afterPath="$PROJECT_DIR$/views/public/img/michaelfrazisprofile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/michaelfrazisselfie.jpg" afterPath="$PROJECT_DIR$/views/public/img/michaelfrazisselfie.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/samwaller.jpg" afterPath="$PROJECT_DIR$/views/public/img/samwaller.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image001.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image001.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image002.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image002.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image003.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image003.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image004.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image004.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image005.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image005.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image005.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image005.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image006.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image006.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image007.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image007.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image007.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image007.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image008.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image008.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image008.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image008.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image009.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image009.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image009.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image009.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image010.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image010.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image010.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image010.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image011.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image011.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image012.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image012.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image013.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image013.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image014.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image014.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image015.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image015.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image016.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image016.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image017.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image017.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image018.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image018.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image019.jpg" afterPath="$PROJECT_DIR$/views/public/img/xero/image019.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/image020.png" afterPath="$PROJECT_DIR$/views/public/img/xero/image020.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/x1.PNG" afterPath="$PROJECT_DIR$/views/public/img/xero/x1.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/x2.PNG" afterPath="$PROJECT_DIR$/views/public/img/xero/x2.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/x3.png" afterPath="$PROJECT_DIR$/views/public/img/xero/x3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/x4.PNG" afterPath="$PROJECT_DIR$/views/public/img/xero/x4.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/xero/x6.png" afterPath="$PROJECT_DIR$/views/public/img/xero/x6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/z/growth.PNG" afterPath="$PROJECT_DIR$/views/public/img/z/growth.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/z/holdings.PNG" afterPath="$PROJECT_DIR$/views/public/img/z/holdings.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/z/margin.png" afterPath="$PROJECT_DIR$/views/public/img/z/margin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/z/quarterlies.PNG" afterPath="$PROJECT_DIR$/views/public/img/z/quarterlies.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/z/valuation.PNG" afterPath="$PROJECT_DIR$/views/public/img/z/valuation.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/z/zillow.PNG" afterPath="$PROJECT_DIR$/views/public/img/z/zillow.PNG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisApr17.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisApr17.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisAugust16.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisAugust16.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisDecember16.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisDecember16.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisFebruary17.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisFebruary17.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisJanuary2017.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisJanuary2017.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisJuly16.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisJuly16.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisMarch17.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisMarch17.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisNovember16.docx" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisNovember16.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisNovember16.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisNovember16.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisOctober16.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisOctober16.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/FrazisSeptember16.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/FrazisSeptember16.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/Tesla Interview.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/Tesla Interview.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/individualinvestmentform.pdf" afterPath="$PROJECT_DIR$/views/public/pdf/individualinvestmentform.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/pdf/insight.html" afterPath="$PROJECT_DIR$/views/public/pdf/insight.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/style.css" afterPath="$PROJECT_DIR$/views/public/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/investorletters.html" afterPath="$PROJECT_DIR$/views/investorletters.handlebars" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/people.html" afterPath="$PROJECT_DIR$/views/people.handlebars" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/xero.html" afterPath="$PROJECT_DIR$/views/xero.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fraziscapitalpartners2.iml" afterPath="$PROJECT_DIR$/.idea/fraziscapitalpartners2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fraz.js" afterPath="$PROJECT_DIR$/fraz.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/performance.html" afterPath="$PROJECT_DIR$/views/performance.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/strategy.html" afterPath="$PROJECT_DIR$/views/strategy.html" />
     </list>
     <ignored path="fraziscapitalpartners2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,9 +113,61 @@
     <favorites_list name="fraziscapitalpartners2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="fraz.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fraz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="investorletters.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/people.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xero.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/xero.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="performance.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/performance.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/contact.handlebars">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -36,21 +176,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="home.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="main.handlebars" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/layouts/main.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -64,8 +204,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fraz.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/views/home.handlebars" />
+        <option value="$PROJECT_DIR$/views/xero.html" />
+        <option value="$PROJECT_DIR$/views/performance.html" />
+        <option value="$PROJECT_DIR$/views/contact.handlebars" />
+        <option value="$PROJECT_DIR$/views/people.handlebars" />
+        <option value="$PROJECT_DIR$/fraz.js" />
+        <option value="$PROJECT_DIR$/views/layouts/main.handlebars" />
+        <option value="$PROJECT_DIR$/views/investorletters.handlebars" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/views/invest.handlebars" />
       </list>
     </option>
   </component>
@@ -77,9 +226,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="829" />
+    <option name="height" value="831" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -104,8 +253,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -124,19 +273,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fraziscapitalpartners2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fraziscapitalpartners2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fraziscapitalpartners2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fraziscapitalpartners2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/startbootstrap-blog-home-gh-pages 2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js-jscs-package" value="$PROJECT_DIR$/../node_modules/jscs" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -166,6 +352,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -192,6 +384,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="" />
@@ -199,34 +394,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497948487572</updated>
-      <workItem from="1497948488738" duration="240000" />
+      <workItem from="1497948488738" duration="2904000" />
+      <workItem from="1498212253074" duration="536000" />
+      <workItem from="1498214910813" duration="1311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240000" />
+    <option name="totallyTimeSpent" value="4751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="831" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -236,7 +441,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/fraz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/xero.handlebars">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -244,11 +473,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/strategy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/performance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fraz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/xero.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/strategy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/performance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -256,6 +616,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/404.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/delete.js" />
+    <entry file="file://$PROJECT_DIR$/views/strategy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/performance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/xero.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/invest.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fraz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding />
         </state>
       </provider>
