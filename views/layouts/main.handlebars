@@ -24,16 +24,16 @@
     <div class="col-sm-2"
     <nav class="navbar">
         <div class="container-fluid">
-                <a href="#"><img id='topleftlogo' src='/public/img/Logo.png'></a>
-                <a href="#"><img id = 'toprightname' src='/public/img/Name.png'></a>
+                <a href="/"><img id='topleftlogo' src='/public/img/Logo.png'></a>
+                <a href="/"><img id = 'toprightname' src='/public/img/Name.png'></a>
 
 
                 <ul class="nav navbar-nav">
-                    <li><a href='index.html' class='ls list-group-item active'>Home</a></li>
-                    <li><a href='investorletters' class='ls list-group-item'>Insight</a></li>
-                    <li><a href='people' class='ls list-group-item'>People</a></li>
-                    <li><a href='contact' class='ls list-group-item'>Contact</a></li>
-                    <li><a href='invest' class='ls list-group-item'>Invest</a></li>
+                    <li><a href='/' class='ls list-group-item' id="homet">Home</a></li>
+                    <li><a href='investorletters' class='ls list-group-item' id='insightt'>Insight</a></li>
+                    <li><a href='people' class='ls list-group-item' id="peoplet">People</a></li>
+                    <li><a href='contact' class='ls list-group-item' id="contactt">Contact</a></li>
+                    <li><a href='invest' class='ls list-group-item' id="investt">Invest</a></li>
                 </ul>
 
             <div class="mailchimp">
@@ -105,9 +105,15 @@
     <script type="text/javascript" charset="utf-8" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/1.0/popup.js"></script><script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"08c26e5e46cf7c109889f7d9d","lid":"c4afb82913"}) })
 </script>
 
+
     <div>
+
         {{{body}}}
+
     </div>
+
+
+
 </div>
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

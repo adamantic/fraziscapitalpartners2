@@ -211,5 +211,15 @@ h2,h4{
 h4{
     text-align:left;
 }
-
+#imgmonthly1{
+    width:85%;
+    margin-left:10%;
+}
+#imgmonthly2{
+    width:50%;
+    margin-left:10%;
+}
+#linkedin{
+    width:5%;
+}
 
