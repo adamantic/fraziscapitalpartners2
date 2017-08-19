@@ -4,7 +4,7 @@
   "description": "fraziscapitalpartners2",
   "main": "fraz.js",
   "scripts": {
-    "start" : "node fraz.js"
+    "start": "node fraz.js"
   },
   "author": "Michael Frazis",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
     "grunt-init": "^0.3.2",
+    "heroku": "^0.2.0",
     "jquery": "^3.2.1",
     "jshint": "^2.9.5",
     "linkchecker": "^1.1.0",
