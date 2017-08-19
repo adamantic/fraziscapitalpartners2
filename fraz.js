@@ -24,6 +24,14 @@ app.get('/', function(req, res) {
     res.render('home');
 });
 
+app.get('/jun17', function(req, res) {
+    res.render('jun17');
+});
+
+app.get('/crypto', function(req, res) {
+    res.render('crypto');
+});
+
 app.get('/contact', function(req, res) {
     res.render('contact');
 });
@@ -48,11 +56,13 @@ app.get('/xero', function(req, res) {
     res.render('xero');
 });
 
-
-app.get('/investorletters', function(req,res){
-    res.render('investorletters');
+app.get('/crypto', function(req, res) {
+    res.render('crypto');
 });
 
+app.get('/invest', function(req, res) {
+    res.render('invest');
+});
 
 // 404 catch-all handler (middleware)
 app.use(function(req, res, next){
