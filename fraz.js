@@ -28,6 +28,10 @@ app.get('/jun17', function(req, res) {
     res.render('jun17');
 });
 
+app.get('/july17', function(req, res) {
+    res.render('july17');
+});
+
 app.get('/crypto', function(req, res) {
     res.render('crypto');
 });
