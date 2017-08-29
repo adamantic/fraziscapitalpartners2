@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/10jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/11jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/12jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/1jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/2jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/3jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/4jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/5jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/6jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/7jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/8jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/9jul17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/public/img/jul17/performancejuly17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/july17.handlebars" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fraz.js" afterPath="$PROJECT_DIR$/fraz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/contact.handlebars" afterPath="$PROJECT_DIR$/views/contact.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/crypto.handlebars" afterPath="$PROJECT_DIR$/views/crypto.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.handlebars" afterPath="$PROJECT_DIR$/views/home.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/invest.handlebars" afterPath="$PROJECT_DIR$/views/invest.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/investorletters.handlebars" afterPath="$PROJECT_DIR$/views/investorletters.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/jun17.handlebars" afterPath="$PROJECT_DIR$/views/jun17.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/main.handlebars" afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/people.handlebars" afterPath="$PROJECT_DIR$/views/people.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/performance.handlebars" afterPath="$PROJECT_DIR$/views/performance.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/xero.handlebars" afterPath="$PROJECT_DIR$/views/xero.handlebars" />
     </list>
     <ignored path="fraziscapitalpartners2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -376,12 +351,12 @@
       <workItem from="1498214910813" duration="4508000" />
       <workItem from="1499754909149" duration="4042000" />
       <workItem from="1503099174393" duration="6297000" />
-      <workItem from="1504003795787" duration="839000" />
+      <workItem from="1504003795787" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20598000" />
+    <option name="totallyTimeSpent" value="20958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="6" />
