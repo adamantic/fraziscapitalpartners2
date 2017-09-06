@@ -13,6 +13,10 @@
         border-right:0;
         background-color: white;
     }
+    #removewhenlarge{
+        display:none;
+    }
+
     .navbar-collapse.collapse {
         display: block !important;
         width: auto !important;
