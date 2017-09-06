@@ -48,7 +48,8 @@
     }
 }
 @media screen and (max-width:768px) {
-    .topleftimage1 { display:none }
+    #topleftimage1 { display:none }
+    #topleftimage2 { display:none }
     li{text-align:center}
     .navbar-default {border:0px;background-color: white;color:white}
 }
@@ -80,7 +81,7 @@ body>.nav {
     width:50%;
     margin-top:3%;
 }
-.imglogo{
+#imglogo{
     width:20%;
     margin-top:4%;
 }
@@ -90,10 +91,10 @@ img{
 .button1{
     margin-top:3%;
 }
-.topleftimage1{
+#topleftimage1{
     width=1%;
 }
-.topleftimage2{
+#topleftimage2{
     width=1%;
 }
 ul{
