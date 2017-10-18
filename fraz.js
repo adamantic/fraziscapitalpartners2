@@ -32,6 +32,11 @@ app.get('/jul17', function(req, res) {
     res.render('jul17');
 });
 
+app.get('/aug17', function(req, res) {
+  res.render('aug17');
+});
+
+
 app.get('/crypto2', function(req, res) {
     res.render('crypto2');
 });
