@@ -40,6 +40,10 @@ app.get('/sep17', function(req, res) {
     res.render('sep17');
 });
 
+app.get('/oct17', function(req, res) {
+    res.render('oct17');
+});
+
 app.get('/crypto2', function(req, res) {
     res.render('crypto2');
 });
