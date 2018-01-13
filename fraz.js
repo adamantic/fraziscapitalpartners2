@@ -76,6 +76,11 @@ app.get('/strategy', function(req, res) {
     res.render('strategy');
 });
 
+
+app.get('/performance', function(req, res) {
+    res.render('performance');
+});
+
 app.get('/xero', function(req, res) {
     res.render('xero');
 });

@@ -197,6 +197,15 @@ h2,h4{
 .blog{
     padding:10px;
 }
+footer{
+    height: 100px;
+    width:100%;
+    position:absolute;
+    left: 0;
+    bottom: 0;
+}
+
+
 #home{
     margin:5%;
     text-align: center;
