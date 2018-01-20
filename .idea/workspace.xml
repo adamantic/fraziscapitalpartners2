@@ -4,7 +4,6 @@
     <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/people.handlebars" afterPath="$PROJECT_DIR$/views/people.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/performance.handlebars" afterPath="$PROJECT_DIR$/views/performance.handlebars" />
     </list>
     <ignored path="fraziscapitalpartners2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.handlebars" pinned="false" current-in-tab="false">
+      <file leaf-file-name="people.handlebars" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/people.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+            <state relative-caret-position="525">
+              <caret line="35" column="162" lean-forward="false" selection-start-line="35" selection-start-column="162" selection-end-line="35" selection-end-column="162" />
               <folding />
             </state>
           </provider>
@@ -117,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="performance.handlebars" pinned="false" current-in-tab="true">
+      <file leaf-file-name="performance.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/performance.handlebars">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -233,8 +232,8 @@
         <option value="$PROJECT_DIR$/views/invest.handlebars" />
         <option value="$PROJECT_DIR$/views/layouts/main.handlebars" />
         <option value="$PROJECT_DIR$/views/contact.handlebars" />
-        <option value="$PROJECT_DIR$/views/people.handlebars" />
         <option value="$PROJECT_DIR$/views/performance.handlebars" />
+        <option value="$PROJECT_DIR$/views/people.handlebars" />
       </list>
     </option>
   </component>
@@ -422,12 +421,12 @@
       <workItem from="1513066454030" duration="674000" />
       <workItem from="1513738911832" duration="897000" />
       <workItem from="1513809848247" duration="505000" />
-      <workItem from="1514790548765" duration="4132000" />
+      <workItem from="1514790548765" duration="4431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53510000" />
+    <option name="totallyTimeSpent" value="53809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="951" extended-state="0" />
@@ -830,18 +829,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/performance.handlebars">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="162" lean-forward="false" selection-start-line="35" selection-start-column="162" selection-end-line="35" selection-end-column="162" />
           <folding />
         </state>
       </provider>
