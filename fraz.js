@@ -89,6 +89,10 @@ app.get('/crypto', function(req, res) {
     res.render('crypto');
 });
 
+app.get('/getswift', function(req, res) {
+    res.render('getswift');
+});
+
 app.get('/invest', function(req, res) {
     res.render('invest');
 });
