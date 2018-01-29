@@ -64,6 +64,10 @@ app.get('/contact', function(req, res) {
     res.render('contact');
 });
 
+app.get('/privacy', function(req, res) {
+    res.render('privacy');
+});
+
 app.get('/investorletters', function(req, res) {
     res.render('investorletters');
 });
