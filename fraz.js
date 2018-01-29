@@ -48,6 +48,10 @@ app.get('/nov17', function(req, res) {
     res.render('nov17');
 });
 
+app.get('/dec17', function(req, res) {
+    res.render('dec17');
+});
+
 app.get('/crypto2', function(req, res) {
     res.render('crypto2');
 });
