@@ -101,6 +101,10 @@ app.get('/getswift', function(req, res) {
     res.render('getswift');
 });
 
+app.get('/jan18', function(req, res) {
+    res.render('jan18');
+});
+
 app.get('/invest', function(req, res) {
     res.render('invest');
 });
