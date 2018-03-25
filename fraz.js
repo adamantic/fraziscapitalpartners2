@@ -105,6 +105,11 @@ app.get('/jan18', function(req, res) {
     res.render('jan18');
 });
 
+app.get('/feb18', function(req, res) {
+    res.render('feb18');
+});
+
+
 app.get('/invest', function(req, res) {
     res.render('invest');
 });
