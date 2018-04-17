@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="" />
+    <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="fraziscapitalpartners2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -402,12 +404,12 @@
       <workItem from="1520026266753" duration="9000" />
       <workItem from="1522014620516" duration="1364000" />
       <workItem from="1522298122479" duration="452000" />
-      <workItem from="1523964511881" duration="361000" />
+      <workItem from="1523964511881" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67868000" />
+    <option name="totallyTimeSpent" value="68127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="38" width="1680" height="951" extended-state="0" />
