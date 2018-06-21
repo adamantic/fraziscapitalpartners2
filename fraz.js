@@ -117,6 +117,10 @@ app.get('/apr18', function(req, res) {
     res.render('apr18');
 });
 
+app.get('/may18', function(req, res) {
+  res.render('may18');
+});
+
 
 app.get('/invest', function(req, res) {
     res.render('invest');
