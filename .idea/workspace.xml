@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/may18.handlebars" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fraz.js" afterPath="$PROJECT_DIR$/fraz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/investorletters.handlebars" afterPath="$PROJECT_DIR$/views/investorletters.handlebars" />
     </list>
     <ignored path="fraziscapitalpartners2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -392,12 +389,12 @@
       <workItem from="1527415607332" duration="1395000" />
       <workItem from="1528114904937" duration="789000" />
       <workItem from="1528854823987" duration="312000" />
-      <workItem from="1529563859101" duration="831000" />
+      <workItem from="1529563859101" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73924000" />
+    <option name="totallyTimeSpent" value="74171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="151" width="1432" height="872" extended-state="0" />
