@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="663535df-2286-4cc6-a67c-d6a2cb87cb42" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/jun18.handlebars" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fraz.js" afterPath="$PROJECT_DIR$/fraz.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/investorletters.handlebars" afterPath="$PROJECT_DIR$/views/investorletters.handlebars" />
     </list>
     <ignored path="fraziscapitalpartners2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,18 +27,8 @@
       <file leaf-file-name="fraz.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fraz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="120" column="17" lean-forward="false" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sep17.handlebars" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/sep17.handlebars">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="530">
+              <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -61,16 +54,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jan18.handlebars" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/jan18.handlebars">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="14" lean-forward="false" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mar18.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/mar18.handlebars">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,7 +68,17 @@
         <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <caret line="11" column="65" lean-forward="false" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jun17.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/jun17.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="57" column="40" lean-forward="false" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -94,18 +87,39 @@
       <file leaf-file-name="may18.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/may18.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.handlebars" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jun18.handlebars" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/jun18.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#4;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#5;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/people.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="30" column="72" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="30" selection-end-column="72" />
+            <state relative-caret-position="408">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -131,6 +145,7 @@
       <find>linked</find>
       <find>personally</find>
       <find>ofcourse</find>
+      <find>july</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -168,11 +183,12 @@
         <option value="$PROJECT_DIR$/views/feb18.handlebars" />
         <option value="$PROJECT_DIR$/views/mar18.handlebars" />
         <option value="$PROJECT_DIR$/views/apr18.handlebars" />
-        <option value="$PROJECT_DIR$/fraz.js" />
-        <option value="$PROJECT_DIR$/views/investorletters.handlebars" />
         <option value="$PROJECT_DIR$/views/layouts/main.handlebars" />
         <option value="$PROJECT_DIR$/views/home.handlebars" />
         <option value="$PROJECT_DIR$/views/may18.handlebars" />
+        <option value="$PROJECT_DIR$/fraz.js" />
+        <option value="$PROJECT_DIR$/views/investorletters.handlebars" />
+        <option value="$PROJECT_DIR$/views/jun18.handlebars" />
       </list>
     </option>
   </component>
@@ -192,11 +208,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="79" />
-    <option name="y" value="151" />
-    <option name="width" value="1432" />
-    <option name="height" value="872" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1658" />
+    <option name="y" value="192" />
+    <option name="width" value="716" />
+    <option name="height" value="435" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -378,24 +394,25 @@
       <workItem from="1528114904937" duration="789000" />
       <workItem from="1528854823987" duration="312000" />
       <workItem from="1529563859101" duration="3524000" />
-      <workItem from="1529647029361" duration="619000" />
+      <workItem from="1529647029361" duration="1866000" />
+      <workItem from="1532063585999" duration="2077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77236000" />
+    <option name="totallyTimeSpent" value="80560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="79" y="151" width="1432" height="872" extended-state="0" />
+    <frame x="-2568" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1850789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10441292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42375" sideWeight="0.476257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20838971" sideWeight="0.52374303" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22915043" sideWeight="0.52374303" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997555" sideWeight="0.49756396" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -427,13 +444,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/cli-table/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/cli-table/node_modules/colors/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -554,13 +564,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/jun17.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/public/code.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -669,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6511">
           <caret line="383" column="23" lean-forward="false" selection-start-line="383" selection-start-column="23" selection-end-line="383" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,22 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fraz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="120" column="17" lean-forward="false" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -737,19 +723,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/may18.handlebars">
+    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="408">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/people.handlebars">
+    <entry file="file://$PROJECT_DIR$/views/may18.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="30" column="72" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="30" selection-end-column="72" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fraz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/investorletters.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" lean-forward="false" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/jun17.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="57" column="40" lean-forward="false" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/jun18.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#4;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#5;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
